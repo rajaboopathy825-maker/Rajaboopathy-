@@ -1,4 +1,3 @@
-# Rajaboopathy/Readme.md
 
 # Hi, I'm Rajaboopathy 👋
 
