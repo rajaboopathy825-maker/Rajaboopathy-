@@ -48,14 +48,14 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 <p align="left">
-   <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/>
+   <a href="rajaboopathy825@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <a href="https://[linkedin.com/in/rajaboopathy-p" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/yourprofile">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  <a href="https://www.instagram.com/boopxth_y" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="25" alt="instagram logo"  />
   </a>
 </p>
 
