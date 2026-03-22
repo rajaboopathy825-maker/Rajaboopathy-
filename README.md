@@ -33,8 +33,8 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajaboopathy825-maker&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaboopathy825-maker&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajaboopathy-P&show_icons=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajaboopathy-P&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
 ---
